@@ -1,0 +1,17 @@
+.TodosCreator{
+    box-sizing: border-box;
+    padding: 50px 0 50px 0 ;
+}
+
+.TodosCreator input{
+    width: 800px;
+    height: 40px;
+    outline: none;
+    border-radius: 10px;
+    border: 2px solid deepskyblue;
+    padding: 0 20px 0 20px ;
+    font-size: 17px;
+    margin: 15px 0 0 0;
+}
+
+
